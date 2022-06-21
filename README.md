@@ -1,13 +1,18 @@
 # Azure Bot
 Azure Bot Service implementation using the Custom Question Answering service.
 
-# Architecture Diagram
+# Architecture Diagram (Recommended)
 ![Architecture](https://docs.microsoft.com/en-us/gaming/azure/reference-architectures/media/cognitive/cognitive-customer-service-bot.png)
+Recommended arcitecture using LUIS and QnA Maker (now called Conversational Language Understanding and Custom Question Answering respectively).
 Note: Bot Source code, including QnA Knowledge Base, was developed and published from [<b>Azure Cognitive Service for Language</b>](https://azure.microsoft.com/en-us/services/cognitive-services/language-service/)  
 ##### (HLA sourced from https://docs.microsoft.com/en-us/gaming/azure/reference-architectures/cognitive-css-bot)
 
 # Usage
 #### It is recommended to use this code as a sample resource only. Development and creation of bot must be done through [<b>Azure Cognitive Service for Language</b>](https://azure.microsoft.com/en-us/services/cognitive-services/language-service/). Main logic for bot is located at `bot\Bots\QnABot.cs`
+
+# [<b>See QuickStart to get started.</b>](https://docs.microsoft.com/en-us/azure/cognitive-services/language-service/question-answering/quickstart/sdk?pivots=studio)
+
+
 
 ## Embed Bot (Web channel)
 ```html
