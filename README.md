@@ -1,4 +1,4 @@
-# yourroom_poc
+# Azure Bot
 Azure Bot Service implementation using the Custom Question Answering service.
 
 # Architecture Diagram
