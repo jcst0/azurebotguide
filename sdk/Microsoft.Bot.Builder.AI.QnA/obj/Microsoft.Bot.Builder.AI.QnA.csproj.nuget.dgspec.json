@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jostephen\\Downloads\\yourroombot-src\\sdk\\Microsoft.Bot.Builder.AI.QnA\\Microsoft.Bot.Builder.AI.QnA.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jostephen\\Downloads\\yourroombot-src\\sdk\\Microsoft.Bot.Builder.AI.QnA\\Microsoft.Bot.Builder.AI.QnA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jostephen\\Downloads\\yourroombot-src\\sdk\\Microsoft.Bot.Builder.AI.QnA\\Microsoft.Bot.Builder.AI.QnA.csproj",
+        "projectName": "Microsoft.Bot.Builder.AI.QnA",
+        "projectPath": "C:\\Users\\jostephen\\Downloads\\yourroombot-src\\sdk\\Microsoft.Bot.Builder.AI.QnA\\Microsoft.Bot.Builder.AI.QnA.csproj",
+        "packagesPath": "C:\\Users\\jostephen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jostephen\\Downloads\\yourroombot-src\\sdk\\Microsoft.Bot.Builder.AI.QnA\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jostephen\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "AdaptiveExpressions": {
+              "target": "Package",
+              "version": "[4.14.1, )"
+            },
+            "Microsoft.Bot.Builder.Dialogs.Declarative": {
+              "target": "Package",
+              "version": "[4.14.1, )"
+            },
+            "Microsoft.Bot.Configuration": {
+              "target": "Package",
+              "version": "[4.14.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\jostephen\Downloads\yourroombot-src\sdk\Microsoft.Bot.Builder.AI.QnA\bin\Debug\netstandard2.0\Microsoft.Bot.Builder.AI.QnA.xml
+C:\Users\jostephen\Downloads\yourroombot-src\sdk\Microsoft.Bot.Builder.AI.QnA\bin\Debug\netstandard2.0\Microsoft.Bot.Builder.AI.QnA.deps.json
+C:\Users\jostephen\Downloads\yourroombot-src\sdk\Microsoft.Bot.Builder.AI.QnA\bin\Debug\netstandard2.0\Microsoft.Bot.Builder.AI.QnA.dll
+C:\Users\jostephen\Downloads\yourroombot-src\sdk\Microsoft.Bot.Builder.AI.QnA\bin\Debug\netstandard2.0\Microsoft.Bot.Builder.AI.QnA.pdb
+C:\Users\jostephen\Downloads\yourroombot-src\sdk\Microsoft.Bot.Builder.AI.QnA\obj\Debug\netstandard2.0\Microsoft.Bot.Builder.AI.QnA.csproj.AssemblyReference.cache
+C:\Users\jostephen\Downloads\yourroombot-src\sdk\Microsoft.Bot.Builder.AI.QnA\obj\Debug\netstandard2.0\Microsoft.Bot.Builder.AI.QnA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jostephen\Downloads\yourroombot-src\sdk\Microsoft.Bot.Builder.AI.QnA\obj\Debug\netstandard2.0\Microsoft.Bot.Builder.AI.QnA.AssemblyInfoInputs.cache
+C:\Users\jostephen\Downloads\yourroombot-src\sdk\Microsoft.Bot.Builder.AI.QnA\obj\Debug\netstandard2.0\Microsoft.Bot.Builder.AI.QnA.AssemblyInfo.cs
+C:\Users\jostephen\Downloads\yourroombot-src\sdk\Microsoft.Bot.Builder.AI.QnA\obj\Debug\netstandard2.0\Microsoft.Bot.Builder.AI.QnA.csproj.CoreCompileInputs.cache
+C:\Users\jostephen\Downloads\yourroombot-src\sdk\Microsoft.Bot.Builder.AI.QnA\obj\Debug\netstandard2.0\Microsoft.Bot.Builder.AI.QnA.sourcelink.json
+C:\Users\jostephen\Downloads\yourroombot-src\sdk\Microsoft.Bot.Builder.AI.QnA\obj\Debug\netstandard2.0\Microsoft.Bot.Builder.AI.QnA.dll
+C:\Users\jostephen\Downloads\yourroombot-src\sdk\Microsoft.Bot.Builder.AI.QnA\obj\Debug\netstandard2.0\Microsoft.Bot.Builder.AI.QnA.pdb

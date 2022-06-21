@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.Bot.Builder.AI.QnA</id>
+    <version>1.0.0</version>
+    <authors>Microsoft.Bot.Builder.AI.QnA</authors>
+    <description>Classes for using QnA Maker Cognitive Service on the Microsoft Bot Builder SDK</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="AdaptiveExpressions" version="4.14.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Bot.Builder.Dialogs.Declarative" version="4.14.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Bot.Configuration" version="4.14.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="2.1.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\jostephen\Downloads\yourroombot-src\sdk\Microsoft.Bot.Builder.AI.QnA\bin\Debug\netstandard2.0\Microsoft.Bot.Builder.AI.QnA.dll" target="lib\netstandard2.0\Microsoft.Bot.Builder.AI.QnA.dll" />
+    <file src="C:\Users\jostephen\Downloads\yourroombot-src\sdk\Microsoft.Bot.Builder.AI.QnA\bin\Debug\netstandard2.0\Microsoft.Bot.Builder.AI.QnA.xml" target="lib\netstandard2.0\Microsoft.Bot.Builder.AI.QnA.xml" />
+    <file src="C:\Users\jostephen\Downloads\yourroombot-src\sdk\Microsoft.Bot.Builder.AI.QnA\Schemas\Microsoft.QnAMakerDialog.schema" target="content\Schemas\Microsoft.QnAMakerDialog.schema" />
+    <file src="C:\Users\jostephen\Downloads\yourroombot-src\sdk\Microsoft.Bot.Builder.AI.QnA\Schemas\Microsoft.QnAMakerRecognizer.schema" target="content\Schemas\Microsoft.QnAMakerRecognizer.schema" />
+    <file src="C:\Users\jostephen\Downloads\yourroombot-src\sdk\Microsoft.Bot.Builder.AI.QnA\Schemas\Microsoft.QnAMakerDialog.uischema" target="content\Schemas\Microsoft.QnAMakerDialog.uischema" />
+  </files>
+</package>
