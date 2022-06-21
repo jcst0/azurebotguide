@@ -1,5 +1,5 @@
 # yourroom_poc
-Proof of Concept for NSW Health. Azure Bot Service implementation for <i>Your Room</i> Knowledge Base integration.
+Azure Bot Service implementation using the Custom Question Answering service.
 
 # Architecture Diagram
 ![Architecture](https://docs.microsoft.com/en-us/gaming/azure/reference-architectures/media/cognitive/cognitive-customer-service-bot.png)
